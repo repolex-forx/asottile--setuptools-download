@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/setuptools-download/commit/6379d3f20ee346402792914c0fafe168d7357231",
       "git:hexsha": "6379d3f20ee346402792914c0fafe168d7357231",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T11:39:09.836778+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/setuptools-download/commit/062e06a79ff9653d221fe2118e62906e63d12bd5",
