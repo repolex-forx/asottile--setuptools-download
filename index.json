@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "setuptools-download",
+  "versions": [
+    {
+      "commit": "6379d3f20ee346402792914c0fafe168d7357231",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:39:09.863166+00:00"
+    }
+  ]
+}
