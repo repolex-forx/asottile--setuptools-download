@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "setuptools-download",
+  "versions": [
+    {
+      "commit": "6379d3f20ee346402792914c0fafe168d7357231",
+      "parsed_at": "2026-10-20T11:37:04.362879+00:00",
+      "filetree": "filetree/6379d3f20ee346402792914c0fafe168d7357231.nq.gz",
+      "blobs": [
+        "blob/b1447c3015af9511f2dee402ca4b5ad62adf5dce.nq.gz",
+        "blob/d571cda0e9a6e8f3e65da4dbee1c104030c28305.nq.gz",
+        "blob/f4f4b98c230ac21ac6b8d200f3471a976678f414.nq.gz",
+        "blob/deafa40b4e5451facb45893d86045597137b3b79.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b9d2108db8e527a6e0fafe5552d6226b32b39bff.nq.gz",
+        "blob/cf4350e288bcb286188c09ebb3414224a82935fd.nq.gz",
+        "blob/96cab5490247374ae97a457438899960951b7cf4.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz",
+        "blob/ca1d90ea180858ae143c0e62d920e350d3acc62d.nq.gz",
+        "blob/804e9c76906dd843c433caddf64ec60b5d111d89.nq.gz",
+        "blob/9482f768745d8e8abc388faa00348c049e1dbfc1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
